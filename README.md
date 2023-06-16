@@ -15,3 +15,6 @@ CSCMOT
 
     pip install -r requirements.txt
     
+Mobile robot control package
+
+Control link ([https://github.com/unitreerobotics/unitree_legged_sdk](https://github.com/unitreerobotics/unitree_legged_sdk))。
